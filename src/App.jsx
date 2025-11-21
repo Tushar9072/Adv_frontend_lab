@@ -27,6 +27,10 @@ import ContextDemo from "./Lab-21/ContextDemo";
 import ThemeToggle from "./Lab-21/ThemeToggle";
 import LogInOut from "./Lab-21/LogInOut";
 import Cart from "./Lab-21/Cart";
+import SwitchTheme from "./Lab-22/SwitchTheme";
+import AuthUser from "./Lab-22/AuthUser";
+import ReduxCart from "./Lab-22/ReduxCart";
+import ReduxCRUD from "./Lab-23/ReduxCRUD";
 
 function App() {
   return (
@@ -62,8 +66,11 @@ function App() {
         {/* <ContextDemo/> */}
         {/* <ThemeToggle/> */}
         {/* <LogInOut/> */}
-        <Cart/>
-        
+        {/* <Cart/> */}
+        {/* <SwitchTheme/> */}
+        {/* <AuthUser/> */}
+        {/* <ReduxCart/> */}
+        <ReduxCRUD/>
       </div>
     </>
   );
