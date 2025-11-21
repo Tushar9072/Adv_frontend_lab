@@ -21,6 +21,12 @@ import AnimateBox from "./hooks/hook_9/AnimateBox";
 import FactorialMemo from "./hooks/hook_10/FactorialMemo";
 import FilterListMemo from "./hooks/hook_10/FilterListMemo";
 import DerivedNameMemo from "./hooks/hook_10/DerivedNameMemo";
+import Login_Form from "./Lab-21/Login_Form";
+import ToDoList from "./Lab-21/ToDoList";
+import ContextDemo from "./Lab-21/ContextDemo";
+import ThemeToggle from "./Lab-21/ThemeToggle";
+import LogInOut from "./Lab-21/LogInOut";
+import Cart from "./Lab-21/Cart";
 
 function App() {
   return (
@@ -50,7 +56,14 @@ function App() {
         {/* <AnimateBox/> */}
         {/* <FactorialMemo/> */}
         {/* <FilterListMemo/> */}
-        <DerivedNameMemo/>
+        {/* <DerivedNameMemo/> */}
+        {/* <Login_Form/> */}
+        {/* <ToDoList/> */}
+        {/* <ContextDemo/> */}
+        {/* <ThemeToggle/> */}
+        {/* <LogInOut/> */}
+        <Cart/>
+        
       </div>
     </>
   );
