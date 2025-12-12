@@ -60,6 +60,16 @@ import ProfilePlaceholder from "./Labs/Lab-4/ProfilePlaceholder";
 import ResponsiveVideo from "./Labs/Lab-4/ResponsiveVideo";
 import HeroBanner from "./Labs/Lab-5/HeroBannner";
 import ImageCard from "./Labs/Lab-5/ImageCard";
+import GlassEffect from "./Labs/Lab-5/GlassEffect";
+import HoverBlur from "./Labs/Lab-5/HoverBlur";
+import ThreeBoxesBorder from "./Labs/Lab-5/ThreeBoxesBorder";
+import ThreeCardShadow from "./Labs/Lab-5/ThreeCardShadow";
+import BlendModes from "./Labs/Lab-5/BlendModes";
+import ThreeDifferentFilter from "./Labs/Lab-5/ThreeDifferentFilter";
+import PulsingAnimationGradient from "./Labs/Lab-5/PulsingAnimationGradient";
+import SeparatorLines from "./Labs/Lab-5/SeparatorLines";
+import CardRing from "./Labs/Lab-5/CardRing";
+import CardLift from "./Labs/Lab-5/CardLift";
 
 function App() {
   // const [name, setName] = useState("Default Name");
@@ -141,7 +151,17 @@ function App() {
       {/* <ProfilePlaceholder/> */}
       {/* <ResponsiveVideo/> */}
       {/* <HeroBanner/> */}
-      <ImageCard/>
+      {/* <ImageCard/> */}
+      {/* <GlassEffect/> */}
+      {/* <HoverBlur/> */}
+      {/* <ThreeBoxesBorder/> */}
+      {/* <ThreeCardShadow/> */}
+      {/* <BlendModes/> */}
+      {/* <ThreeDifferentFilter/> */}
+      {/* <PulsingAnimationGradient/> */}
+      {/* <SeparatorLines/> */}
+      {/* <CardRing/> */}
+      <CardLift/>
 
 
     </div>
